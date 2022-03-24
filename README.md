@@ -45,7 +45,8 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 3. Install Frontend Dependencies
-   ```cd frontend
+   ```
+   cd frontend
    npm install
    ```
 4. Run Dev server from root folder 
